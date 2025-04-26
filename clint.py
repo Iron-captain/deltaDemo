@@ -1,6 +1,7 @@
 import grpc
 import chat_pb2
 import chat_pb2_grpc
+import time
 
 def generate_messages():
     # This simulates the user sending messages to the server.
