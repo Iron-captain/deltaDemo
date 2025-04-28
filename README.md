@@ -1,2 +1,2 @@
-demo test of github repo creation conflict creation
-just to demonstrate merge conflict
+demo test of github repo creation for git commands learnig
+clint chage the content
